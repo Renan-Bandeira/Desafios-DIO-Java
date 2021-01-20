@@ -1,4 +1,4 @@
 ## Desafios Digital Innovation One :books:
 
-* **Fundamentos Aritméticos em Java.** 
-  * 1 - Quantidade de Números Positivos.
+* **Fundamentos Aritméticos em Java.** <br/>
+  1 - Quantidade de Números Positivos.
