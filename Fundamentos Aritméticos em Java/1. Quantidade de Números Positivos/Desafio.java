@@ -26,7 +26,7 @@ public class Desafio {
     
     for (int ct = 0; ct < 6; ct++){
       
-        if  (vetor[ct] >= 0){
+        if  (vetor[ct] > 0){
         re++;
         } 
     }
