@@ -6,7 +6,7 @@
 | :-----: | :------------------------------------: | :----------------------------------------------------------: |
 |    1    |            Visita na Feira.            | [Código](https://github.com/renanbandeira94/Desafios-DIO-Java/blob/master/Introdução a Programação com Java/1. Visita na Feira/Desafio.java) |
 |    2    |         Multiplicação Simples.         | [Código](https://github.com/renanbandeira94/Desafios-DIO-Java/blob/master/Introdução a Programação com Java/2. Multiplicação Simples/Desafio.java) |
-|    3    |          Folha de Pagamento.           | [Código][Desafio.java](https://github.com/renanbandeira94/Desafios-DIO-Java/blob/master/Introdução a Programação com Java/3. Folha de Pagamento/Desafio.java) |
+|    3    |          Folha de Pagamento.           | [Código](https://github.com/renanbandeira94/Desafios-DIO-Java/blob/master/Introdução a Programação com Java/3. Folha de Pagamento/Desafio.java) |
 
 
 
