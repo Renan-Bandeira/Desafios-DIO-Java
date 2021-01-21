@@ -16,6 +16,6 @@
 | :-----: | :------------------------------: | :----------------------------------------------------------: |
 |    1    | Quantidade de Números Positivos  | [Código](https://github.com/renanbandeira94/Desafios-DIO-Java/blob/master/Fundamentos Aritméticos em Java/1. Quantidade de Números Positivos/Desafio.java) |
 |    2    |      Exibindo Números Pares      | [Código](https://github.com/renanbandeira94/Desafios-DIO-Java/blob/master/Fundamentos Aritméticos em Java/2. Exibindo Números Pares/Desafio.java) |
-|    3    |                                  |                                                              |
+|    3    |                a                 |                                                              |
 |    4    |                                  |                                                              |
 |    5    |                                  |                                                              |
