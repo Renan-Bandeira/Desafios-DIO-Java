@@ -2,11 +2,11 @@
 
 ##### Introdução a Programação com Java - Nível Básico
 
-| Desafio | **Introdução a Programação com Java.** | Descrição |                           Solução                            |
-| :-----: | :------------------------------------: | :-------: | :----------------------------------------------------------: |
-|    1    |            Visita na Feira.            |           | [Código](https://github.com/renanbandeira94/Desafios-DIO-Java/blob/master/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/1.%20Visita%20na%20Feira/Desafio.java) |
-|    2    |         Multiplicação Simples.         |           | [Código](https://github.com/renanbandeira94/Desafios-DIO-Java/blob/master/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/2.%20Multiplica%C3%A7%C3%A3o%20Simples/Desafio.java) |
-|    3    |          Folha de Pagamento.           |           | [Código](https://github.com/renanbandeira94/Desafios-DIO-Java/blob/master/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/3.%20Folha%20de%20Pagamento/Desafio.java) |
+| Desafio | **Introdução a Programação com Java.** |                          Descrição                           |                           Solução                            |
+| :-----: | :------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|    1    |            Visita na Feira.            | [Descrição](https://github.com/renanbandeira94/Desafios-DIO-Java/blob/master/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/1.%20Visita%20na%20Feira/Descri%C3%A7%C3%A3o.md) | [Código](https://github.com/renanbandeira94/Desafios-DIO-Java/blob/master/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/1.%20Visita%20na%20Feira/Desafio.java) |
+|    2    |         Multiplicação Simples.         | [Descrição](https://github.com/renanbandeira94/Desafios-DIO-Java/blob/master/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/2.%20Multiplica%C3%A7%C3%A3o%20Simples/Descri%C3%A7%C3%A3o.md) | [Código](https://github.com/renanbandeira94/Desafios-DIO-Java/blob/master/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/2.%20Multiplica%C3%A7%C3%A3o%20Simples/Desafio.java) |
+|    3    |          Folha de Pagamento.           | [Descrição](https://github.com/renanbandeira94/Desafios-DIO-Java/blob/master/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/3.%20Folha%20de%20Pagamento/Descri%C3%A7%C3%A3o.md) | [Código](https://github.com/renanbandeira94/Desafios-DIO-Java/blob/master/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/3.%20Folha%20de%20Pagamento/Desafio.java) |
 
 ##### Fundamentos Aritméticos em Java - Nível Intermediário
 
